@@ -1,0 +1,4 @@
+C:\Users\Николай\Documents\Visual Studio 2008\Projects\ShapeFear\ShapeFear\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Николай\Documents\Visual Studio 2008\Projects\ShapeFear\ShapeFear\obj\Release\ShapeFear.MainForm.resources
+C:\Users\Николай\Documents\Visual Studio 2008\Projects\ShapeFear\ShapeFear\obj\Release\ShapeFear.Properties.Resources.resources
+C:\Users\Николай\Documents\Visual Studio 2008\Projects\ShapeFear\ShapeFear\obj\Release\ShapeFear.csproj.GenerateResource.Cache

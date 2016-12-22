@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace ShapeFear
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
         }
@@ -24,6 +24,11 @@ namespace ShapeFear
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Разработчик программы Николай Воротнев. vk.com/vrtnev");
         }
     }
 }
